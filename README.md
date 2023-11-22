@@ -1,5 +1,10 @@
 # job-application
 
+# Project Group of SDE IIT Jodhpur  
+
+Prateek ( M22AIE214 )
+Mayur S Gaidhane ( M22AIE248 ) 
+
 ### Node
 * For Mac:
 ```
